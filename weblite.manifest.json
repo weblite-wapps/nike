@@ -1,0 +1,9 @@
+{
+  "name": "nike",
+  "instancable": false,
+  "creator": false,
+  "inline": true,
+  "shareDB": false,
+  "width": 300,
+  "height": 310
+}
