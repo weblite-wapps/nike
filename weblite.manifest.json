@@ -1,12 +1,13 @@
 {
   "name": "nike",
-  "id": "5bbdfdf3cdaabd3694c063f1",
+  "id": "5c4c2800e50e46486b155fc5",
+  "searchable": true,
   "instancable": false,
   "creator": false,
   "inline": true,
-  "shareDB": false,
-  "searchable": true,
   "width": 300,
   "height": 310,
-  "servIndexes": {}
+  "servIndexes": {
+    "main": "index"
+  }
 }
