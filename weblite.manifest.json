@@ -2,7 +2,7 @@
   "name": "nike",
   "id": "5c4c2800e50e46486b155fc5",
   "searchable": true,
-  "instancable": false,
+  "instantiable": false,
   "creator": false,
   "inline": true,
   "width": 300,
